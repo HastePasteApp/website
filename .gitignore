@@ -47,3 +47,7 @@ playwright/test-results
 
 # prisma
 migrations
+
+# docker
+docker/pgadmin
+docker/postgres
